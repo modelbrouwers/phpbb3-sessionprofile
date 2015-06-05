@@ -13,5 +13,10 @@
             "name": "Sergei Maertens",
             "email": "sergeimaertens@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modelbrouwers\\SessionProfile\\": "src/"
+        }
+    }
 }
