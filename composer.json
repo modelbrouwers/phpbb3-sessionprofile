@@ -1,0 +1,17 @@
+{
+    "name": "modelbrouwers/phpbb3-sessionprofile",
+    "description": "Bridge to authenticate in phpBB3 forums against a Django backend",
+    "require": {
+        "doctrine/orm": "^2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergei Maertens",
+            "email": "sergeimaertens@gmail.com"
+        }
+    ]
+}
