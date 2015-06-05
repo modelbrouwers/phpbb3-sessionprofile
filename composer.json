@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Modelbrouwers\\SessionProfile\\": "src/"
+            "Modelbrouwers\\SessionProfile\\": "src"
         }
     }
 }
